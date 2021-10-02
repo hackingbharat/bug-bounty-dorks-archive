@@ -67,3 +67,5 @@ site:*.*.cn intext:security report reward
 site:*.*.nl intext:responsible disclosure
 site:*.*.uk intext:responsible disclosure
 site:*.*.us intext:responsible disclosure
+inurl:/en intext:"responsible" + "bounty" + "app"
+site:.com inurl:/security intext:Bounty AND Scope
