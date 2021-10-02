@@ -1,0 +1,14 @@
+
+S.No.	Operators		Description									Example
+01		intitle:		Search Page Titles							intitle:admin login
+02		allintitle:		Search Page Title							allintitle:admin login
+03		inurl:			Search URL									inurl:8080/login
+04		allinurl:		Search URL									allinurl:adminlogin
+05		filetype:		Specific Files								filetype:json
+06		intext:			Search text of page only					intext: admin credentials
+07		allintext:		Search text of page only					allintext: “security tools”
+08		site:			Search specific site						site:example.com
+09		link:			Search for links to pages					link:bing.com
+10		inanchor:		Search link anchor text						inanchor:”guest user”
+11		cache:			Search for cached version of any website	cache:www.example.com
+12		related:		Search for similar types of websites		related:www.example.com
