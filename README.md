@@ -5,4 +5,6 @@ We'll update it time to time, if you have others and want to share with bug hunt
 
 You can also find us on twitter: [@hackingbharat](https://twitter.com/hackingbharat) [@sumitshukla_](https://twitter.com/sumitshukla_)
 
-Thanks,
+Bug bounty tools, dorks ( google and bug bounty ) etc has been added and more will be added and updated soon...
+
+Thanks...,
